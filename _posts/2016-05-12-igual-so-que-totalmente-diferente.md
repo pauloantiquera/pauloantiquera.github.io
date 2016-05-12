@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Igual, só que totalmente diferente!
+date: 2016-05-12
 ---
 #### Esta é a história de uma pergunta. A pergunta que afetou diretamente a vida do pequeno/gigante Nicolas e, de Mônica e eu, seus pais. Trata-se de um relato do período desde a gestação até o nascimento do Nicolas. Uma história igual a muitas, mas muito diferente da maioria delas.
 
