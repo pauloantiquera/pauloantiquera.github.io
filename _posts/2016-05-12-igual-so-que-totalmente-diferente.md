@@ -45,7 +45,7 @@ E a equipe se formou, mamãe, bebê, papai, parteiras (enfermeiras obstetras), d
 
 ### Naquele ponto já estava totalmente diferente. Pré-natal, Nicolas crescendo e se desenvolvendo. Uma pergunta com várias respostas possíveis. Cada resposta com bônus e ônus.
 
-Além da resposta sem uma pergunta na ponta da língua, havia também uma mulher com poder de decisão e um time para apoiar nas escolhas. Na decisão dela não havia apenas uma resposta para a pergunta, mas sim possibilidades. Para ser mais exato havia planos A, B e C.
+Além da pergunta sem uma resposta na ponta da língua, havia também uma mulher com poder de decisão e um time para apoiar nas escolhas. Na decisão dela não havia apenas uma resposta para a pergunta, mas sim possibilidades. Para ser mais exato havia planos A, B e C.
 
 ### Totalmente diferente. Uma pergunta com no mínimo três possibilidades de resposta, três planos. Todos os planos carregavam uma decisão da Mônica: _"O Nicolas vai nascer quando ele quiser"_.
 
