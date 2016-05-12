@@ -91,4 +91,4 @@ Com a diferença de ter o acompanhamento de pessoas que entendem do assunto, cui
 
 ### _Com muito mais diferenças que vamos descobrindo, à medida em que a vida vai transcorrendo no seu processo natural. Igual, só que totalmente diferente._
 
-[post-image]: /images/IMG_4895-Reduced.jpg
+[post-image]: /images/IMG_4895-Reduced.jpg "Nicolas Festa Antiquera"
