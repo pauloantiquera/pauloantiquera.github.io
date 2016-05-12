@@ -2,6 +2,7 @@
 layout: post
 title: Igual, só que totalmente diferente!
 date: 2016-05-12
+image: /images/IMG_4895-Reduced.jpg
 ---
 ![post-image]
 
