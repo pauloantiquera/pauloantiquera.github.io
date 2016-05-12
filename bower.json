@@ -1,0 +1,25 @@
+{
+  "name": "pauloantiquera.github.io",
+  "homepage": "http://pauloantiquera.github.io",
+  "authors": [
+    "Paulo Antiquera <paulo@antiquera.net>"
+  ],
+  "description": "Paulo Antiquera Website",
+  "main": "index.html",
+  "keywords": [
+    "Github",
+    "Pages",
+    "Blog"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
