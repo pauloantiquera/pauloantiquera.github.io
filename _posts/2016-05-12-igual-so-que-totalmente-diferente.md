@@ -3,6 +3,8 @@ layout: post
 title: Igual, só que totalmente diferente!
 date: 2016-05-12
 ---
+![post-image]
+
 ### Esta é a história de uma pergunta. A pergunta que afetou diretamente a vida do pequeno/gigante Nicolas e, de Mônica e eu, seus pais. Trata-se de um relato do período desde a gestação até o nascimento do Nicolas. Uma história igual a muitas, mas muito diferente da maioria delas.
 
 O Nicolas veio ao mundo em 12/05/2015 através de cesárea, igual a 55% dos partos no Brasil. Igual a mais de 80% se considerados apenas os partos realizados na saúde privada.
@@ -88,3 +90,5 @@ Com a diferença de ter desmistificado algumas situações pré e pós-parto, co
 Com a diferença de ter o acompanhamento de pessoas que entendem do assunto, cuidando da Mônica e do Nicolas, antes e depois do parto.
 
 ### _Com muito mais diferenças que vamos descobrindo, à medida em que a vida vai transcorrendo no seu processo natural. Igual, só que totalmente diferente._
+
+[post-image]: /images/IMG_4895-Reduced.jpg
