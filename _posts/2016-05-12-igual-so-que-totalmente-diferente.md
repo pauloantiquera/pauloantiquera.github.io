@@ -69,7 +69,7 @@ A dilatação evoluiu pouco em algumas horas, eram 8 cm. Dilatar os 2 cm necess�
 
 Neste momento o time todo estava em atividade, obstetra tomando as ações necessárias na maternidade.
 
-As 22:59, do dia 12/05/2015 veio ao mundo o pequeno/gigante Nicolas, só com a cabeça fora da barriga da mamãe já quis esboçar um choro. O gigante, com 4.750 kg e 57,5 cm de comprimento que todo mundo queria conhecer.
+As 22:49, do dia 12/05/2015 veio ao mundo o pequeno/gigante Nicolas, só com a cabeça fora da barriga da mamãe já quis esboçar um choro. O gigante, com 4.750 kg e 57,5 cm de comprimento que todo mundo queria conhecer.
 
 Aproveitou o poder que a Mônica lhe deu e decidiu ficar na barriga da mamãe durante 41 semanas e 5 dias. Todo enrugadinho, 30 minutos depois estava mamando. Funcionou, deu certo, a pergunta foi respondida.
 
